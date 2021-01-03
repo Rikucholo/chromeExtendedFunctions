@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1,
+    "name": "",
+    "version": "1.0.0",
+    "description": "",
+    "content_scripts": [{
+        "matches": [""],
+        "css": [""]
+    }]
+}
